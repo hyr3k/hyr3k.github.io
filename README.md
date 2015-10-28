@@ -1,2 +1,2 @@
 # hyr3k.github.io
-shokujin.jp
+[shokujin.jp](http://shokujin.jp)
